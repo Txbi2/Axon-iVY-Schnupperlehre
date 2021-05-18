@@ -1,0 +1,6 @@
+name = input("Wie heissen Sie?")
+alter = input("Wie Alt sind Sie?")
+wohnort = input("Wo wohnen Sie?")
+print(name)
+print(alter)
+print(wohnort)
